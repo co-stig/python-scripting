@@ -1,7 +1,0 @@
-:title: Python Scripting Cheatsheet
-
-= Files
-
-Reading files.
-
-1. Test.
