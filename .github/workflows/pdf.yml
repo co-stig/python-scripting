@@ -12,3 +12,4 @@ jobs:
       uses: manoelcampos/asciidoctor-ghpages-action@v2
       with:
         pdf_build: true
+        ebook_main_adoc_file: scripting
